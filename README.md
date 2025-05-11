@@ -1,9 +1,15 @@
+
 # Isaac ROS Common
 
 Dockerfiles and scripts for development using the Isaac ROS suite.
 
 ## How To Use
 Copied from  [Isaac ROS Documentation](https://nvidia-isaac-ros.github.io/repositories_and_packages/isaac_ros_common/index.html)
+**Prerequisites:** 
+- [Docker](https://docs.docker.com/engine/install/) 
+- [Docker nvidia toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html) 
+
+**Installation steps & how to use:**
 1. Clone this repository 
 2. Create a ros2 workspace, then run the following command  
 	```
